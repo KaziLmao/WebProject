@@ -1,0 +1,60 @@
+/* You can add global styles to this file, and also import other style files */
+button:hover {
+  background-color: #cc1f1f !important;
+  border-color: rgb(233, 52, 104) !important;
+}
+
+button {
+  background-color: #973535 !important;
+  border-color: rgb(196, 13, 64) !important;
+  color: aliceblue !important;
+}
+
+.btn:hover{
+  background-color: #cc1f1f !important;
+  border-color: rgb(233, 52, 104) !important;
+}
+
+.btn{
+  background-color: #973535 !important;
+  border-color: rgb(196, 13, 64) !important;
+  color: aliceblue !important;
+}
+
+body{
+  background-color: rgb(221, 210, 255);
+}
+
+.navbar{
+  background-color: rgb(221, 210, 255) !important;
+}
+
+.position-relative{
+  background-color: rgb(221, 210, 255) !important;
+}
+
+input:enabled, input:focus, input:checked, input:visited, input:target, input:active, input:default {
+  box-shadow: none !important;
+}
+
+button:enabled, button:focus, button:checked, button:visited, button:target, button:active, button:default {
+  box-shadow: none !important;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+*{
+  font-family: Trebuchet MS, sans-serif;
+}
